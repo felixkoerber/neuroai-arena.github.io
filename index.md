@@ -14,10 +14,10 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
 </style>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-<script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+
   
 <div class="row justify-content-center">
-  <div class="col-sm-9" >
+  <div class="col-sm-8" >
     <br>
     <div class="image">
       <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ARENA_text.jpg" style="max-width: 300px;align: left">
@@ -58,13 +58,7 @@ excerpt: "ARENA: Abstract Representations in Neural Architectures"
     <br>
   </div>
     <div class="col-sm-3" >
-        <bsky-embed
-    username="arena-researchunit.bsky.social"
-    limit="3"
-    load-more="true"
-  >
-  </bsky-embed>
-</div>
+    </div>
 </div>
 
 
